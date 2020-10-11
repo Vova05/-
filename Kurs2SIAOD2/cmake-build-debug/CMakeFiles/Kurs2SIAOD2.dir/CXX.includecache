@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sony/Desktop/OOPC++/Kurs2SIAOD2/main.cpp
+algorithm
+-
+iostream
+-
+memory
+-
+utility
+-
+stack
+-
+queue
+-
+
