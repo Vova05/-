@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sony/Desktop/OOPC++/Kurs2SIAOD4/ExternalFunctionality.cpp
+fstream
+-
+iostream
+-
+string
+-
+
+C:/Users/sony/Desktop/OOPC++/Kurs2SIAOD4/main.cpp
+iostream
+-
+ExternalFunctionality.cpp
+C:/Users/sony/Desktop/OOPC++/Kurs2SIAOD4/ExternalFunctionality.cpp
+
